@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_mennuhome"
+            android:title="Trang Chủ" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_person"
+            android:title="Thông Tin" />
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/ic_baseline_category_24"
+            android:title="Giảm Giá" />
+
+        <item
+            android:id="@+id/nav_my_orders"
+            android:icon="@drawable/ic_baseline_shopping_cart_24"
+            android:title="Đơn Hàng Của Tôi" />
+        <item
+            android:id="@+id/nav_my_carts"
+            android:icon="@drawable/ic_baseline_add_shopping_cart_24"
+            android:title="Giỏ Hàng Của Tôi" />
+
+
+    </group>
+
+</menu>

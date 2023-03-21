@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "220831008833",
+    "project_id": "fastfoodorderstore",
+    "storage_bucket": "fastfoodorderstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220831008833:android:d9566187d219fa3a15dec0",
+        "android_client_info": {
+          "package_name": "com.example.fastfoodorderstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220831008833-oua6q3i6iph7610q2oi0sjp65v1kkro7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fastfoodorderstore",
+            "certificate_hash": "b54b1d36721f24573d14374018f0d2e5aabea643"
+          }
+        },
+        {
+          "client_id": "220831008833-r0i8shosraop7oafblm5vtrde9046gpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZyKgDzhv74QqxRDc2H9CQaYE3fbFZwHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220831008833-r0i8shosraop7oafblm5vtrde9046gpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
